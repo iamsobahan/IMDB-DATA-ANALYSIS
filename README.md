@@ -1,5 +1,5 @@
-Interactive Excel Dashboard
-Overview
+# Interactive Excel Dashboard
+# Overview
 Welcome to the Interactive Excel Dashboard project! This dashboard offers a comprehensive analysis of movie data using Microsoft Excel. Leveraging PivotTables and slicers, this dashboard provides insightful analytics and allows users to explore data effortlessly.
 
 Features
